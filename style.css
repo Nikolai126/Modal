@@ -2,11 +2,17 @@ body {
     background-image: linear-gradient(to right, rgba(131, 98, 54, 0.61), rgba(131, 98, 54, 0.61)), url('background.jpg');
 }
 
+header {
+    width: 100%;
+}
+
 .header__phone {
+    width: 100%;
     color: black;
-    margin: 350px;
     font-size: 100px;
     text-decoration: none;
+    display: flex;
+    justify-content: center;
 }
 
 .popup {
