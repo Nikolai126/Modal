@@ -93,5 +93,6 @@ header {
     cursor: pointer;
     border-radius: 20px;
     background: white;
+    text-transform: uppercase;
 
 }
